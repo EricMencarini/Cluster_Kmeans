@@ -7,6 +7,6 @@ através do data set da CIA sobre informações socio-econômicas e geográficas
    @claudioquevedo
    @DHudsonLins
 
-##Observação:
+## Observação:
 Devido a uso da lib 'plotly' o GitHub não consegue fazer a renderização de alguns gráficos e imagens contidas no Colab.
 Enquanto isto for assim, para melhor visualização verificar o arquivo diretamente dentro do Colab.
