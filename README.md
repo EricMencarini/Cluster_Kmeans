@@ -4,6 +4,7 @@ através do data set da CIA sobre informações socio-econômicas e geográficas
 
 
 ## Desenvolvido por:
+   @EricMencarini
    @claudioquevedo
    @DHudsonLins
 
